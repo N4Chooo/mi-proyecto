@@ -5,4 +5,5 @@ function saludo(){
 
 function mnsj($mensaje){
     echo $mensaje;;
+    echo $mensaj
 }
