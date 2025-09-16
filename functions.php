@@ -2,3 +2,7 @@
 function saludo(){
     echo "saludo";
 }
+
+function mnsj($mensaje){
+    echo $mensaje;
+}
